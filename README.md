@@ -1,4 +1,4 @@
-Efficient-KD
+#Efficient-KD
 
 You should download the dataset CoNLL-03 first and save it into './datasets/conll-03' first.
 
